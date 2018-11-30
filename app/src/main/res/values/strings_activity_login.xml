@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_login">GitHub Authentication</string>
+
+    <string name="prompt_email">Email / Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_public_version">Поиск</string>
+    <string name="action_sign_in_short">Войти</string>
+
+    <string name="error_invalid_email">Неверный Login / Email</string>
+    <string name="error_invalid_password">Этот пароль слишком короткий</string>
+    <string name="error_incorrect_password">Этот пароль неверен</string>
+    <string name="error_field_required">Это поле обязательно к заполнению</string>
+</resources>

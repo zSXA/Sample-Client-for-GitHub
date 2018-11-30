@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="concurrent_repositories">5</integer>
+
+    <string name="streamdata_proxy_prefix">https://streamdata.motwin.net/</string>
+
+    <string name="streamdata_app_token">ZmMzNGUzNTItZWUxNC00YjhhLWFhMmItZWNkNDQ5ZjhmMjYw</string>
+
+    <string name="github_public_token">5a09c4bd06b78e7773f9dec9a52e2436285f07d0</string>
+
+    <string name="app_client_id">4597f1a5982cac7cd9a3</string>
+
+    <string name="app_client_secret">0bbb96f729cc9995da81bcfe07d00d38e8a766c6</string>
+
+    <string name="redirect_uri">your://redirecturi</string>
+
+    <string name="history_filename">searches_history.json</string>
+</resources>
